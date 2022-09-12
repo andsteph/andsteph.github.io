@@ -1,0 +1,74 @@
+- name: Firefighter Recruitments.ca
+  url:  https://firefighterecruitments.ca
+  desc: web design, web development, wordpress
+  image: /assets/images/firefighterecruitments-thumbnail-1.jpg
+
+- name: My Art Box
+  url:  https://myartbox.ca
+  desc: web development, e-commerce, shopify
+  image: /assets/images/myartbox-2.jpg
+
+- name: VO2 Max Fitness
+  url:  https://vo2maxfit.ca
+  desc: web design, web development, wordpress
+  image: /assets/images/vo2maxfit-screenshot-2.jpg
+
+- name: Nomad Striking Academy
+  url:  https://nomadstriking.com
+  desc: web design, web development, wordpress
+  image: /assets/images/nomadstriking-screenshot-2.jpg
+
+- name: Kevin Mooney Construction
+  url: https://kevinmooneyconstruction.ca
+  desc: web design, web development, wordpress
+  image: /assets/images/kmc-screenshot-1.jpg
+
+- name: Organized By Design
+  url: https://organizedbydesign.space
+  desc: web design, web development, wordpress
+  image: /assets/images/origanized-by-design-screenshot.jpg
+
+- name: Windrose Equity
+  url: https://windroseequity.ca
+  desc: web design, web development, wordpress
+  image: /assets/images/windrose-equity-screenshot.jpg
+
+- name: The Maxwell Group
+  url: https://themaxwellgroup.ca
+  desc: web design, web development, wordpress
+  image: /assets/images/themaxwellgroup-screenshot-1.jpg
+
+- name: Grady's Feet Essentials
+  url: https://feetessentials.com
+  desc: web design, web development, wordpress, woocommerce
+  image: /assets/images/gradys-screenshot-1.jpg
+
+- name: Building Character
+  url: https://buildingcharacter.ca
+  desc: web design, web development, wordpress
+  image: /assets/images/building-character-screenshot.jpg
+
+- name: Butter Tart Tour
+  url: https://buttertarttour.ca
+  desc: web development, wordpress
+  image: /assets/images/buttertarttour-screenshot-1.jpg
+
+- name: Kawartha Land Trust
+  url: https://kawarthalandtrust.org
+  desc: web development, wordpress
+  image: /assets/images/klt-screenshot-1.jpg
+
+- name: Cherney Properties
+  url: http://cherneyproperties.com
+  desc: web development, wordpress
+  image: /assets/images/cherney-screenshot-1.jpg
+
+- name: Monaghan Lumber
+  url: https://monaghanlumber.com
+  desc: web development, wordpress
+  image: /assets/images/monaghan-lumber-screenshot.jpg
+
+- name: McLean, Simon & Associates
+  url: https://mclean-associates.com
+  desc: web development, wordpress
+  image: /assets/images/mclean-simon-screenshot.jpg
